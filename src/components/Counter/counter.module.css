@@ -1,0 +1,26 @@
+.counter {
+  /* TODO */
+  margin-left: 220px;
+  display: flex;
+  width: 80px;
+  
+  border-radius: 12px;
+}
+.counter button{
+  height: 30px;
+  width: 30px;
+  background-color: rebeccapurple;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: aliceblue;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.counter span{
+  height: 30px;
+  width: 30px;
+  border: none;
+  font-size: 25px;
+  font-weight: bold;
+}

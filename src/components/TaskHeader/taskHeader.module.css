@@ -1,0 +1,22 @@
+.taskHeader {
+  /* Sample */
+  height: 20%;
+  width: 100%;
+  /* border: 1px solid blue; */
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  background-color: #3b9ba9;
+  /* margin-top: -20px; */
+  padding: 20px;
+
+}
+.taskHeader h1{
+  text-align: center;
+  color:aliceblue;
+  /* margin-top: 30px; */
+}
+.taskHeader b{
+  color:black;
+  text-align: center;
+  margin-left: 50px;
+}
